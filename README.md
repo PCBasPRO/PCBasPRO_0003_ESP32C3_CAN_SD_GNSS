@@ -1,5 +1,5 @@
 # PCBasPRO_0003_ESP32C3_CAN_SD_GNSS
-
+PCB to Study the feasibility of ESP32 on [0002](https://github.com/PCBasPRO/PCBasPRO_0002_Cheap_FOC2VESC)
 
 ## **NOTE: Ongoing updates on text description, PCB and Schematic**
 
@@ -17,7 +17,21 @@
 - ESD ready
 - 3v3 LDO
 - 30,5mmX38mm PCB
+- ufl conection ready (not for L80R)
 
-  ### **Current limitations:**
 
-  LDO 500mA
+### **Current limitations:**
+
+  - LDO 500mA
+
+### **My next steps:**
+
+- GNSS connector (ongoing pin selection for outer connection)
+
+
+### **PCB Status:**
+
+TOP: 
+![Image]().
+Bottom:
+![Image]().
