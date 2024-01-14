@@ -27,6 +27,7 @@ PCB to Study the feasibility of ESP32 on [0002](https://github.com/PCBasPRO/PCBa
 ### **My next steps:**
 
 - GNSS connector (ongoing pin selection for outer connection)
+- Impedance match to stack-up
 
 
 ### **PCB Status:**
