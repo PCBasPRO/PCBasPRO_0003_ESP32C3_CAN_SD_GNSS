@@ -7,13 +7,13 @@ PCB to Study the feasibility of ESP32 on [0002](https://github.com/PCBasPRO/PCBa
 ### **Features:**
 
 - 5V input (via CAN or USB)
-- Digital power selector CAN, or USB or Battery
-- Battery charger 200mA
-- GNSS connector (ongoing pin selection), or GNSS on Board L80 or L80R or L86
+- Digital power auto-select CAN, or USB or Battery ( in this order)
+- Battery charger ready (100mA-500mA configurable)
+- GNSS connector (ongoing pin selection), or GNSS on Board L80 or L80R or L86 (electrolitic capacitor as a bulk)
 - CAN Input
 - Usb input
 - SD input
-- Esp32C3 with PCB antena
+- Esp32C3 with internal PCB antena
 - ESD ready
 - 3v3 LDO
 - 30,5mmX38mm PCB
@@ -22,7 +22,7 @@ PCB to Study the feasibility of ESP32 on [0002](https://github.com/PCBasPRO/PCBa
 
 ### **Current limitations:**
 
-  - LDO 500mA
+  - 3V3 LDO 500mA
 
 ### **My next steps:**
 
