@@ -42,9 +42,9 @@ PCB to Study the feasibility of ESP32 on [0002](https://github.com/PCBasPRO/PCBa
 ### **PCB Status:**
 TOP:
 ![Image](https://github.com/PCBasPRO/PCBasPRO_0003_ESP32C3_CAN_SD_GNSS/blob/main/2024-01-30_21h04_01.png)
-![Image]()
+![Image](https://github.com/PCBasPRO/PCBasPRO_0003_ESP32C3_CAN_SD_GNSS/blob/main/2024-01-30_21h02_05.png)
 Bottom:
-![Image]()
+![Image](https://github.com/PCBasPRO/PCBasPRO_0003_ESP32C3_CAN_SD_GNSS/blob/main/2024-01-30_21h02_43.png)
 
 First draft TOP: 
 ![Image](https://github.com/PCBasPRO/PCBasPRO_0003_ESP32C3_CAN_SD_GNSS/blob/main/2024-01-14_11h23_50.png)
