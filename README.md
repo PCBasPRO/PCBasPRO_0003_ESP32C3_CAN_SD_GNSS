@@ -24,7 +24,8 @@ PCB to Study the feasibility of ESP32 on [0002](https://github.com/PCBasPRO/PCBa
     - MOSI				  4
     - MISO				  6
     - SCK				  	5
-    - CS					  7
+    - CS_sd				   7
+    - CS_disp           10
     - UART_TX				21
     - UART_RX				20
     - LED_RED_PIN		2
@@ -35,15 +36,23 @@ PCB to Study the feasibility of ESP32 on [0002](https://github.com/PCBasPRO/PCBa
   - 3V3 LDO 500mA
 
 ### **My next steps:**
-
-- See if a display can be integrated  (GPIO10 pin on UART connector)
-
+- correct all erros
+- order assemble PCB's (10-30pcs)
+- test
 
 ### **PCB Status:**
+
 TOP:
+![Image](https://github.com/PCBasPRO/PCBasPRO_0003_ESP32C3_CAN_SD_GNSS/blob/main/image001.png)
+
+Bottom:
+![Image](https://github.com/PCBasPRO/PCBasPRO_0003_ESP32C3_CAN_SD_GNSS/blob/main/image002.png)
+
+Second draft TOP:
 ![Image](https://github.com/PCBasPRO/PCBasPRO_0003_ESP32C3_CAN_SD_GNSS/blob/main/2024-01-30_21h04_01.png)
 ![Image](https://github.com/PCBasPRO/PCBasPRO_0003_ESP32C3_CAN_SD_GNSS/blob/main/2024-01-30_21h02_05.png)
-Bottom:
+
+Second draft Bottom:
 ![Image](https://github.com/PCBasPRO/PCBasPRO_0003_ESP32C3_CAN_SD_GNSS/blob/main/2024-01-30_21h02_43.png)
 
 First draft TOP: 
