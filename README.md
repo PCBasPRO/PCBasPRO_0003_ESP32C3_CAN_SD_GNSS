@@ -36,8 +36,7 @@ PCB to Study the feasibility of ESP32 on [0002](https://github.com/PCBasPRO/PCBa
   - 3V3 LDO 500mA
 
 ### **My next steps:**
-- correct all erros
-- order assemble PCB's (10-30pcs)
+- order assemble PCB's (will order with 002)
 - test
 
 ### **PCB Status:**
